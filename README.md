@@ -27,7 +27,7 @@
 - Django
 
 ## Experience
-I have several years of experience working on various web development projects. My focus has been on developing responsive and user-friendly web applications using modern technologies. I have worked with small startups as well as large corporations, and I am comfortable both as an individual contributor and as part of a team.
+I have 10+ years of experience working on various web development projects. My focus has been on developing responsive and user-friendly web applications using modern technologies. I have worked with small startups as well as large corporations, and I am comfortable both as an individual contributor and as part of a team.
 
 ## Education
 I hold a degree in Computer Science, with a specialization in Web Development. Throughout my academic journey, I have gained a solid foundation in programming principles and best practices.
