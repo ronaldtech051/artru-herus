@@ -5,6 +5,7 @@
   I am a web developer with expertise in React/Next.js, TailwindCSS, Node.js, and database management.
   I also have extensive knowledge in PHP, specifically Laravel and WordPress, as well as Python and Django.
 </p>
+
 ## Skills
 
 ### Front-End Development
